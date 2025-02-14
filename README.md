@@ -94,17 +94,9 @@
 ### ☕ **Support My Work**
 <div align="center">
   <a href="https://www.buymeacoffee.com/sauravkumarskp" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee">
+    <img src="https://img.shields.io/badge/Like-Support-yellow?style=for-the-badge" alt="Like this">
   </a>
 </div>
-
-
-
-
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/sauravkumarskp)
-
-[![Like this](https://img.shields.io/badge/Like-Support-yellow?style=for-the-badge)](https://www.buymeacoffee.com/sauravkumarskp)
 
 ---
 
