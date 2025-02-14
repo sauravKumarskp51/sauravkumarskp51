@@ -91,16 +91,15 @@
 ---
 
 
-
-
-
-
-
-
-
-
-
 ### ☕ **Support My Work**
+[![GitHub stars](https://img.shields.io/github/stars/sauravKumarskp51?style=social)](https://github.com/sauravKumarskp51)
+
+[![Like this](https://img.shields.io/badge/Like-Support-yellow?style=for-the-badge)](https://www.buymeacoffee.com/sauravkumarskp)
+
+### If you like my work, give it a 👍  
+❤️ [Buy Me a Coffee](https://www.buymeacoffee.com/sauravkumarskp) ☕  
+
+
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/sauravkumarskp)
 
 ---
